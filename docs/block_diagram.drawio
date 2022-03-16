@@ -1,1 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T10:40:44.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="45sUxyFbOyPz6B0g-hgw" version="17.1.3" type="github"><diagram id="EKvn_mkxYGJb-ciBtXjx" name="Page-1">7Vtbc9o4FP41PIax5QvwGAjdZieZZUqTJk+MYitYjbAYWQTor18JyzdEiEkAObPbByodjmXpfOeO0nIGs9VfDM6jWxoi0gJWuGo5Vy0AbM8H4j9JWaeUrt9JCVOGQ8VUEMb4D1JES1EXOERJhZFTSjieV4kBjWMU8AoNMkaXVbZnSqpvncMp0gjjABKd+guHPFJU2+8VX3xHeBqpV3eBOt8MZszqJEkEQ7oskZxhyxkwSnk6mq0GiEjhZXJJn/v2xrf5xhiKeZ0H6O/Xv++/++uf9t2L/XgbPvQH7oWj4HmFZKFOrHbL15kIGF3EIZKrWC2nv4wwR+M5DOS3SwG6oEV8RsTMFkO1HGIcrd7cqJ0fX+gNojPE2VqwqAecTGJKZdyOmi9LAPiKFpVk31M0qDCf5ksXYhEDJZkDpGQ7mlBQKNRETSnjEZ3SGJJhQe1XxVbw3FA6V8L6jThfK52HC06rokQrzB9K40e5VNtTs6uVWnkzWatJuk+5uf3CF2ehCxagfYdW1gbZFPE9fGA3mAwRyPFrdR/HR6ZnBJlY7P0hk7+cpNh0QDYv0NnM1uXZCDEsTo9YCcCHCraPZWhPjTOoibP7SZzVoyOKxQ5zYwde1didzpYRp/tXTxXacskYXJfY5pIhqf8e0Nnyllv8vtXdxy8G6Q4K1c1l8nFtzjEz4mesA/xMYQEpY24D7xmAWGRb/4+py05dp2UdQ5sPVULX2quEp1EqW4vwY0ogE6TRvfjIzuDfGw/87pYr6Lp63Ac74r5/srjvfpW4/1ZE8t6xRwNxxDGZL+jpbn8RvAjKgMYb3ZV24Zk3BbvXNFtwLE0o54xNbVBOjuyPGUPnI+nZEU2kbnSyPxudPoe02Syk3fkvIf2GGzgP0q5RpD8U3+zWQfGtKTj7Rg1aC3o3+OKaxoLWh1zIRW5lEIkz4HiaxkLOKCEyGJruBTUvJ+wY9o61ewS7aq0G5IluTZPpGvWMmsmMLm7/GX8b/tTQl/qNA4ElfEJkRBPMsTAt5+qJck5nQnZ541cKMoRJlCsCJHgqWQMhRAlRGfFs2UvFw6WmyLXm8r2z1VT229uIoIAzydee0eQZ8cRWgwkOJvKJEDPBkm5JYCON5hiG6fWADNQV27T1Pq0H2p5unJ6dUY8OnKcn+LmLGzHKlSyAdT0w7tzcnlsRoGftaHSf1bm5RpP8gxKCvc6t3Sm7N/sd53bqJMGv6fGO0mE9tCflgV5FCV3V9HirMbrN77j+ltqdoIflgq+slwZUyWugKp1INYz26A7qme9zWQfWNV9QpT4VmHwtrOsljE/E9vtPomjxp3Jki3g6u4xOmrA9Y0IGlFC2WdqxNv9qJXKiwnrJrxTY76R2OAmEkGCM6CIR+V1M5XTypE5eTfKWKOFHyvG8an6ys/iyzlp8dY0Yu/miqVvTSHsmjbSr596UJrzVuO56p3FdhZ4muruxOKl1GcI5b0Afptu43yOyYrMksh9D8WndyM+G1uh0zukkndMYB0mboHAiL41sUivEhq9IZljp6ieq3LdbaruuV7lnRVL/hbp/czf8H8p3oXRr3JQ7K5RAN8p7Sri8YwmsH+gZiZMJJ2Xam2ldZStvSBnzZ8Azkto0r8StfYfHaK4D9B9VNPx2eYJywZDWAGrWb4pjCzENUdJOgki8+GU92cyPlHf5VbvLL+WVrG7XxV73VEbn6HVl0S4ec8gXiRhcx6GQDKd6GiZEwavi1qDYlv8Mh2FquyjBf+DTZikrixubA3r9lncl1xLmmqSWa+clY6Y8MY3Rlj4p0jEcpFMFyvN3dKZ3RRZwOFJiWlyCT7tCxZ8SOMN/AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-16T15:09:51.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="4sArSGZpXQBcU0GXlATf" version="17.1.3" type="github">
+  <diagram id="EKvn_mkxYGJb-ciBtXjx" name="Page-1">
+    <mxGraphModel dx="1152" dy="1300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ojvJVH6yT1Uk1YMdXBC4-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="467" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ojvJVH6yT1Uk1YMdXBC4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ojvJVH6yT1Uk1YMdXBC4-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ojvJVH6yT1Uk1YMdXBC4-1" value="Solar PV Array 6V" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ojvJVH6yT1Uk1YMdXBC4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.57;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ojvJVH6yT1Uk1YMdXBC4-3" target="ojvJVH6yT1Uk1YMdXBC4-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ojvJVH6yT1Uk1YMdXBC4-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.57;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ojvJVH6yT1Uk1YMdXBC4-3" target="ojvJVH6yT1Uk1YMdXBC4-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bNgsHODYQrMTYsQvJ4R6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ojvJVH6yT1Uk1YMdXBC4-3" target="bNgsHODYQrMTYsQvJ4R6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ojvJVH6yT1Uk1YMdXBC4-3" value="Li-Ion Battery Charging Controller" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="381" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bNgsHODYQrMTYsQvJ4R6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ojvJVH6yT1Uk1YMdXBC4-5" target="bNgsHODYQrMTYsQvJ4R6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ojvJVH6yT1Uk1YMdXBC4-5" value="Battery Protection IC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="454" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ojvJVH6yT1Uk1YMdXBC4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ojvJVH6yT1Uk1YMdXBC4-8" target="ojvJVH6yT1Uk1YMdXBC4-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ojvJVH6yT1Uk1YMdXBC4-8" value="Boost Converter 5V" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="710" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ojvJVH6yT1Uk1YMdXBC4-9" value="USB Adapter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="860" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ojvJVH6yT1Uk1YMdXBC4-10" value="RED LED" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.led_2;pointerEvents=1;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="300" y="467" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ojvJVH6yT1Uk1YMdXBC4-11" value="BLUE LED" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.led_2;pointerEvents=1;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="380" y="467" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ojvJVH6yT1Uk1YMdXBC4-36" value="Battery Status Indicator" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="290" y="557" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bNgsHODYQrMTYsQvJ4R6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.8;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bNgsHODYQrMTYsQvJ4R6-1" target="ojvJVH6yT1Uk1YMdXBC4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bNgsHODYQrMTYsQvJ4R6-1" value="" style="shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
+          <mxGeometry x="600" y="394" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bNgsHODYQrMTYsQvJ4R6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.8;entryDx=0;entryDy=0;" edge="1" parent="1" source="bNgsHODYQrMTYsQvJ4R6-4" target="bNgsHODYQrMTYsQvJ4R6-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="410" />
+              <mxPoint x="600" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bNgsHODYQrMTYsQvJ4R6-4" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Li-Ion Battery&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;1500mAh&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="454" y="381" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bNgsHODYQrMTYsQvJ4R6-13" value="Switch&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="612.5" y="414" width="50" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
