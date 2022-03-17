@@ -1,1 +1,198 @@
-<mxfile host="app.diagrams.net" modified="2022-03-17T12:26:53.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" version="17.1.3" etag="PFH162lLsD7sKSgIIyso" type="github"><diagram id="jIZiq8yyEbsirpwhT9Kq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-17T14:20:52.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="gF7l-pOVE4pMrb2yXI9A" version="17.1.3" type="github">
+  <diagram id="jIZiq8yyEbsirpwhT9Kq" name="Page-1">
+    <mxGraphModel dx="1289" dy="2229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B_6RA59wOvKVa07YJN4M-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-2" target="B_6RA59wOvKVa07YJN4M-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-2" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-4" target="B_6RA59wOvKVa07YJN4M-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-4" value="Construct the circuit schematic diagram" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-6" target="B_6RA59wOvKVa07YJN4M-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-6" value="Calibrate the solar panel to determine the exact output voltage" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-9" target="B_6RA59wOvKVa07YJN4M-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-9" target="B_6RA59wOvKVa07YJN4M-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-9" value="Is the switch turned on?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="465" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-12" target="B_6RA59wOvKVa07YJN4M-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-12" target="B_6RA59wOvKVa07YJN4M-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-12" value="Is the&amp;nbsp; output voltage/current around 5V/1A?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="680" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-14" target="B_6RA59wOvKVa07YJN4M-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-14" value="Troubleshoot the system" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="702.5" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-16" target="B_6RA59wOvKVa07YJN4M-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-16" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Output voltage through USB adapter&lt;/span&gt;&#xa;&#xa;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="580" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-18" target="B_6RA59wOvKVa07YJN4M-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-18" value="Test battery over-discharge and overcharge protection" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-21" target="B_6RA59wOvKVa07YJN4M-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-21" target="B_6RA59wOvKVa07YJN4M-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-21" value="Does the circuit automatically cut off?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="900" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-23" target="B_6RA59wOvKVa07YJN4M-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-23" value="Troubleshoot the system" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="915" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-25" target="B_6RA59wOvKVa07YJN4M-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-25" value="Charge the battery with input from the solar panel" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-28" target="B_6RA59wOvKVa07YJN4M-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-28" target="B_6RA59wOvKVa07YJN4M-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-28" value="Does the battery able to fully charged?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="580" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-30" target="B_6RA59wOvKVa07YJN4M-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-30" value="Troubleshoot the circuit" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="590" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-31" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1000" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-32" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="335" y="680" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-34" target="B_6RA59wOvKVa07YJN4M-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-34" value="Design the PCB layout using Proteus" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-36" target="B_6RA59wOvKVa07YJN4M-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-36" value="Fabricate the PCB" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-38" target="B_6RA59wOvKVa07YJN4M-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-38" value="Assemble and solder the components on the board" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-40" target="B_6RA59wOvKVa07YJN4M-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-40" value="Test the functionality of the board" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-43" target="B_6RA59wOvKVa07YJN4M-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-43" target="B_6RA59wOvKVa07YJN4M-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-43" value="Is the board functioning?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="670" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-45" target="B_6RA59wOvKVa07YJN4M-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-45" value="Troubleshoot the board" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="685" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-47" target="B_6RA59wOvKVa07YJN4M-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-47" value="Do performance analysis of the system" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-49" target="B_6RA59wOvKVa07YJN4M-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-49" value="Record and tabulate the data&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-51" target="B_6RA59wOvKVa07YJN4M-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-51" value="Build the prototype" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-52" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="B_6RA59wOvKVa07YJN4M-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-54" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="720" y="210" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-56" target="B_6RA59wOvKVa07YJN4M-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-56" value="Assemble the circuit in a protoboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B_6RA59wOvKVa07YJN4M-58" target="B_6RA59wOvKVa07YJN4M-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_6RA59wOvKVa07YJN4M-58" value="Determine the suitable components for the project" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
