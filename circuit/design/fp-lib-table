@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "TP4056")(type "KiCad")(uri "${KIPRJMOD}/libs/fp/TP4056.pretty")(options "")(descr ""))
+  (lib (name "MT3608")(type "KiCad")(uri "${KIPRJMOD}/libs/fp/MT3608.pretty")(options "")(descr ""))
+  (lib (name "Battery_Holder")(type "KiCad")(uri "${KIPRJMOD}/libs/fp/Battery_Holder.pretty")(options "")(descr ""))
+  (lib (name "USB_A")(type "KiCad")(uri "${KIPRJMOD}/libs/fp/USB_A.pretty")(options "")(descr ""))
+)

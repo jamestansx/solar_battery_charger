@@ -1,5 +1,4 @@
 (sym_lib_table
-  (lib (name "TP4056")(type "KiCad")(uri "${KIPRJMOD}/libs/TP4056.kicad_sym")(options "")(descr ""))
-  (lib (name "FS8205")(type "KiCad")(uri "${KIPRJMOD}/libs/FS8205.kicad_sym")(options "")(descr ""))
-  (lib (name "DW01")(type "KiCad")(uri "${KIPRJMOD}/libs/DW01.kicad_sym")(options "")(descr ""))
+  (lib (name "TP4056_Breakout")(type "KiCad")(uri "${KIPRJMOD}/libs/sym/TP4056_Breakout.kicad_sym")(options "")(descr ""))
+  (lib (name "MT3608_Breakout")(type "KiCad")(uri "${KIPRJMOD}/libs/sym/MT3608_Breakout.kicad_sym")(options "")(descr ""))
 )
