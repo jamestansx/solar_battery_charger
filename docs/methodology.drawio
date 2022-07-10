@@ -1,0 +1,143 @@
+<mxfile host="app.diagrams.net" modified="2022-03-21T13:19:53.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="eLRtyWJY1M_-lo-WtI8U" version="17.1.3" type="github">
+  <diagram id="yr1wURz2nJ4A0WLAVUg4" name="Page-1">
+    <mxGraphModel dx="2812" dy="2615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qweALPU_pZwWx6HFjgQL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qweALPU_pZwWx6HFjgQL-1" target="qweALPU_pZwWx6HFjgQL-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="-1130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qweALPU_pZwWx6HFjgQL-2" target="qweALPU_pZwWx6HFjgQL-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-2" value="Solar Panel is placed 30° titled under the sun" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="-1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qweALPU_pZwWx6HFjgQL-4" target="qweALPU_pZwWx6HFjgQL-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-4" value="Voltage generated from solar panel as input to battery controller" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="-950" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qweALPU_pZwWx6HFjgQL-8" target="qweALPU_pZwWx6HFjgQL-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qweALPU_pZwWx6HFjgQL-8" target="qweALPU_pZwWx6HFjgQL-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-8" value="Is battery fully charged?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="-775" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-10" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="90" y="-685" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-11" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="190" y="-750" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qweALPU_pZwWx6HFjgQL-13" target="qweALPU_pZwWx6HFjgQL-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-13" value="Battery controller charges the Li-Ion battery" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="-860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qweALPU_pZwWx6HFjgQL-23" target="qweALPU_pZwWx6HFjgQL-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-23" value="Red LED is lighted up" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="-760" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qweALPU_pZwWx6HFjgQL-26" target="qweALPU_pZwWx6HFjgQL-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-26" value="Blue LED is lighted up" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="-660" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qweALPU_pZwWx6HFjgQL-28" target="qweALPU_pZwWx6HFjgQL-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-28" value="Battery Controller switch to CV mode" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="-580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qweALPU_pZwWx6HFjgQL-30" target="qweALPU_pZwWx6HFjgQL-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qweALPU_pZwWx6HFjgQL-30" target="qweALPU_pZwWx6HFjgQL-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="-455" />
+              <mxPoint x="30" y="-830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-30" value="Is the switch turned on?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="-500" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qweALPU_pZwWx6HFjgQL-32" target="qweALPU_pZwWx6HFjgQL-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-32" value="The output voltage of battery is boosted to 5V" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="457.5" y="-1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qweALPU_pZwWx6HFjgQL-34" target="qweALPU_pZwWx6HFjgQL-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-34" value="Electrical load receive 5V via USB adapter" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="452.5" y="-950" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-36" value="END" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="457.5" y="-644" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qweALPU_pZwWx6HFjgQL-39" target="qweALPU_pZwWx6HFjgQL-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qweALPU_pZwWx6HFjgQL-39" target="qweALPU_pZwWx6HFjgQL-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="605.5" y="-819" />
+              <mxPoint x="605.5" y="-614" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-39" value="Is the battery over-discharged?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="-864" width="135" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qweALPU_pZwWx6HFjgQL-42" target="qweALPU_pZwWx6HFjgQL-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-42" value="Cut off the circuit automatically" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="457.5" y="-744" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-46" value="Output To Load" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="95" y="-380" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qweALPU_pZwWx6HFjgQL-48" target="qweALPU_pZwWx6HFjgQL-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-48" value="Output To Load" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="492.5" y="-1109" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-52" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="90" y="-410" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-53" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="480" y="-774" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-55" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-470" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-56" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="577.5" y="-850" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qweALPU_pZwWx6HFjgQL-58" target="qweALPU_pZwWx6HFjgQL-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qweALPU_pZwWx6HFjgQL-58" value="Battery Controller switch to CC mode" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="-860" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
